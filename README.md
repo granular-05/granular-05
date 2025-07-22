@@ -1,4 +1,4 @@
-<img src="./galeria/caronte.bordas.png"/>
+<img align="center" src="./galeria/caronte.bordas.png"/>
 
 ## Olá! 👋 Aynsken por aqui 🤗
 
