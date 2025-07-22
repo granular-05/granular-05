@@ -2,8 +2,9 @@
 
 ## Olá! 👋 Aynsken por aqui 🤗
 
-Sou um desenvolvedor por hobby. Me viro no back end, rastejo pelo front. Ando pelos dois mundos, mas ainda estou só na superfície, sem me aprofundar demais. Não pretendo transformar isso em profissão, mas acho esse universo fascinante. É algo entre o lógico e o místico.  
-> "Acho algo belo" ✨
+Sou um desenvolvedor por hobby. Me viro no back end, rastejo pelo front. Ando pelos dois mundos, mas ainda estou só na superfície, sem me aprofundar demais. Não pretendo transformar isso em profissão, mas acho esse universo fascinante. É algo entre o lógico e o místico.
+
+> "Acho algo belo" 😌
 
 ---
 
@@ -27,8 +28,8 @@ Sou um desenvolvedor por hobby. Me viro no back end, rastejo pelo front. Ando pe
 
 #### 🩶 Frase motivacional
 
-- _"Não tem. O jeito é fazer sem vontade mesmo."_
+- **_Não tem. O jeito é fazer sem vontade mesmo._**
 
 ---
 
-<img align="right" src="./galeria/selo.italo.png" width="80" height="80"/>
+<img align="right" src="./galeria/selo.italo.png" width="87" height="87"/>
