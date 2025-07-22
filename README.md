@@ -35,12 +35,6 @@ Sou um desenvolvedor por hobby. Me viro no back end, rastejo pelo front. Ando pe
 
 ---
 
-### 🐍 Teste
-
-![Snake animation](https://github.com/aynsken/aynsken/blob/output/github-contribution-grid-snake.svg)
-
----
-
 <img align="right" src="./galeria/brasao.circular.png"/>
 
 ---
