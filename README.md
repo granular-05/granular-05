@@ -1,3 +1,5 @@
+<img src="./galeria/caronte.bordas.png"/>
+
 ## Olá! 👋 Aynsken por aqui 🤗
 
 Sou um desenvolvedor por hobby. Me viro no back end, rastejo pelo front. Ando pelos dois mundos, mas ainda estou só na superfície, sem me aprofundar demais. Não pretendo transformar isso em profissão, mas acho esse universo fascinante. É algo entre o lógico e o místico.  
