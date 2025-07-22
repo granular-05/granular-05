@@ -1,16 +1,46 @@
-## Hi there 👋
+## Olá! 👋 Aynsken por aqui 🤗
 
-<!--
-**aynsken/aynsken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou um desenvolvedor por hobby. Me viro no back end, rastejo pelo front. Ando pelos dois mundos, mas ainda estou só na superfície, sem me aprofundar demais. Não pretendo transformar isso em profissão, mas acho esse universo fascinante. É algo entre o lógico e o místico.  
+> "Acho algo belo" ✨
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🫣 Sobre mim
+
+#### 💼 Trabalho
+
+- _Atualmente atuando como escravo do capitalismo (mas com estilo)._
+
+#### 🤩 Hobbies
+
+- _Linhas de código (às vezes funcionam 🤞)_
+- _Animes 🎌_
+- _Manhwas & Manhuas 📚_
+- _Livros 📖_
+- _Cordas 👟_
+
+#### 📭 Como me encontrar
+
+- _Pode aparecer aqui em casa, eu preparo um café ☕ com boas histórias._
+
+#### 🩶 Frase motivacional
+
+- _"Não tem. O jeito é fazer sem vontade mesmo."_
+
+---
+
+### 🛠️ Tecnologias & Ferramentas
+
+![Techs](https://github-profile-tech-stack.vercel.app/api/cards?languages=HTML,CSS,JavaScript,TypeScript,Markdown,Kotlin,XML,Git,GitHub)
+
+---
+
+### 🐍 Teste
+
+![Snake animation](https://github.com/aynsken/aynsken/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+<img align="right" src="./galeria/brasao.circular.png"/>
+
+---
