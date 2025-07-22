@@ -28,7 +28,7 @@ Sou um desenvolvedor por hobby. Me viro no back end, rastejo pelo front. Ando pe
 
 #### 🩶 Frase motivacional
 
-- **_Não tem. O jeito é fazer sem vontade mesmo._**
+- _Não tem. O jeito é fazer sem vontade mesmo._
 
 ---
 
