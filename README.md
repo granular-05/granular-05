@@ -30,5 +30,3 @@ Sou um desenvolvedor por hobby. Me viro no back end, rastejo pelo front. Ando pe
 ---
 
 <img align="right" src="./galeria/brasao.circular.png" width="80" height="80"/>
-
----
