@@ -1,33 +1,28 @@
-## Olá! 👋 Italo por aqui 🤗
+## 👋 Olá, eu sou o Italo!
 
-Sou um desenvolvedor por hobby. Me viro no back end, rastejo pelo front. Ando pelos dois mundos, mas ainda estou só na superfície, sem me aprofundar demais. Não pretendo transformar isso em profissão, mas acho esse universo fascinante. É algo entre o lógico e o místico.
-
-> "Acho algo belo" 😌
+Sou desenvolvedor por hobby, gosto de explorar tanto o back-end quanto o front-end. Caminho pelos dois mundos, mas ainda estou só na superfície (sem pressa pra mergulhar fundo). Não pretendo transformar isso em carreira, mas sim manter como paixão e diversão.
 
 ---
 
-## 🫣 Sobre mim
+## 🧑‍💻 Sobre mim
 
-#### 💼 Trabalho
+**Trabalho:**  
+Atualmente sobrevivendo ao capitalismo.
 
-- _Atualmente atuando como escravo do capitalismo (mas com estilo)._
+**Hobbies:**  
+- Escrever linhas de código (às vezes funcionam 🤞)  
+- Animes 🎌  
+- Manhwas & Manhuas 📚  
+- Livros 📖  
+- Caminhadas 👟
 
-#### 🤩 Hobbies
+**Contato:**  
+Se quiser trocar uma ideia, pode aparecer pra um café. ☕
 
-- _Linhas de código (às vezes funcionam 🤞)_
-- _Animes 🎌_
-- _Manhwas & Manhuas 📚_
-- _Livros 📖_
-- _Cordas 👟_
-
-#### 📭 Como me encontrar
-
-- _Pode aparecer aqui em casa, eu preparo um café ☕ com boas histórias._
-
-#### 🩶 Frase motivacional
-
-- _Não tem. O jeito é fazer sem vontade mesmo._
+**Motivação:**  
+Não tem frase motivacional aqui. O jeito é fazer mesmo sem vontade. 😅
 
 ---
 
 <img align="right" src="./galeria/selo.italo.png" width="87" height="87"/>
+
