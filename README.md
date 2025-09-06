@@ -38,7 +38,6 @@ Sou um desenvolvedor curioso e relativamente inexperiente, mas dedicado: estudo 
 ## 📫 Contato
 - WhatsApp: [Clique aqui](https://wa.me/5537991004685)
 - LinkedIn: [Em falta](https://nao.uso.sss) 😅
-- GitHub: [github.com/italo-547](https://github.com/italo-547)
 
 ---
 
