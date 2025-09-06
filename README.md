@@ -1,28 +1,22 @@
 
 <h1 align="center">Olá, Ítalo aqui 👋</h1>
-<p align="center">Quanto mais aprendo mais vejo que eu não sei é nada...</p>
-<div align="center">
-	<a href="https://github.com/mocoto-dev">
-		<img src="https://img.shields.io/github/followers/mocoto-dev?label=Seguidores&style=social"/>
-	</a>
-	<a href="https://github.com/mocoto-dev?tab=repositories">
-		<img src="https://img.shields.io/github/stars/mocoto-dev?label=Stars&style=social"/>
-	</a>
-</div>
+<p align="center">Quanto mais aprendo, mais vejo que eu não sei é nada...</p>
 
 ---
 
 ## 🎭 Sobre mim
 
-Sou apaixonado por tecnologia, desenvolvimento de software e inovação. Gosto de aprender novas linguagens, criar projetos  e compartilhar conhecimento. Aqui você encontra meus principais projetos, experimentos e ideias!
+Sou um desenvolvedor curioso e relativamente inexperiente, mas dedicado: estudo sempre, tiro ideias do papel e busco evoluir a cada projeto. Aqui divido descobertas, devaneios e o amor (com um toque de loucura) pelo código.
 
+- 🌍 Localização: Pode aparecer aqui em casa, eu preparo um café... 😏
+- 💼 Profissão: Trabalho com o que tiver (principalmente web)
+- 🎓 Formação: Ensino Médio 😂
+- 🐱‍👓 Hobby: Ler, ouvir músicas, estudar pessoas, pular corda, brincar de desenvolvedor... 😎
 ---
-
 
 ## ♟ Tecnologias que uso
 
 <div align="center">
-	<!-- Badges modernas para tecnologias -->
 	<img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 	<img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 	<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -35,12 +29,26 @@ Sou apaixonado por tecnologia, desenvolvimento de software e inovação. Gosto d
 
 ---
 
-## 📫 Contato
+## 🚩 Projetos em Destaque
+- [Oráculo](https://github.com/italo-547/oraculo) —> projeto pessoal
+- [Depois eu mostro](https://github.com/italo-547/) —> em breve
 
-To sem contato no momento, ja ja arrumo...
+---
+
+## 📫 Contato
+- WhatsApp: [Clique aqui](https://wa.me/5537991004685)
+- LinkedIn: [Em falta](https://nao.uso.sss) 😅
+- GitHub: [github.com/italo-547](https://github.com/italo-547)
 
 ---
 
 <div align="center">
 	<sub>Sem pressa | Ítalo C Lopes</sub>
 </div>
+
+---
+
+### Observações
+A vida tem umas matérias que a escola não ensina... 😎
+
+Obrigado por visitar meu perfil! 😊
