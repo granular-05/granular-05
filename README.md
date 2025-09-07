@@ -49,7 +49,6 @@ A vida tem umas matérias que a escola não ensina... 😎
 Obrigado por visitar meu perfil! 😊
 
 ---
+<p align="center">Sem pressa | Ítalo C Lopes</p>
 
 <img align="right" alt="Selo Ítalo" src="galeria/selo.italo.png" width="100" height="100">
-
-<p align="center">Sem pressa | Ítalo C Lopes</p>
