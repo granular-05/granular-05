@@ -1,5 +1,5 @@
 <h1 align="center">Olá, Ítalo aqui 👋</h1>
-<p align="center">Sem receita...</p>
+<p align="center">Eterno aprendiz...</p>
 
 ---
 
