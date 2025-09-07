@@ -37,7 +37,6 @@ Sou um desenvolvedor curioso e relativamente inexperiente, mas dedicado: estudo 
 
 ## 📫 Contato
 - WhatsApp: [Clique aqui](https://wa.me/5537991004685)
-- LinkedIn: [Clique aqui](https://linkedin.com/in/granular-developer-317b56382)
 
 ---
 
