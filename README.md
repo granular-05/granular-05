@@ -1,5 +1,5 @@
 <h1 align="center">Olá, Ítalo aqui 👋</h1>
-<p align="center">Não se trata do quanto você sabe, mas sim do quanto você faz com o que já sabe...</p>
+<p align="center">Sem receita...</p>
 
 ---
 
