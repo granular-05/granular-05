@@ -1,5 +1,10 @@
 <h1 align="center">Olá, Ítalo aqui 👋</h1>
-<p align="center">Eterno aprendiz...</p>
+
+<div align="center">
+    <a href="https://github.com/italo-547/" target="_blank">
+  <img src="https://img.shields.io/badge/cade_meus_emblemas_github-000000?style=for-the-badge&logo=github&logoColor=white" alt="Cade meus emblemas GitHub" />
+</a>
+</div>
 
 ---
 
