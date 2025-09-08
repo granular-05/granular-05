@@ -1,20 +1,20 @@
 
-<h1 align="center">Olá, Mocotó aqui 👋</h1>
+<h1 align="center">Olá, sou Mocotó 👋</h1>
 
 ---
 
 ## 🎭 Sobre mim
 
-Dizem que a curiosidade move o mundo e foi ela que me trouxe até aqui. Sou o mocotó, 26 anos, nascido no interior do Triângulo Mineiro e atualmente vivendo no Centro-Oeste de Minas. Minha trajetória na tecnologia começou na adolescência, quando quis criar meu próprio blog e acabei descobrindo o universo do HTML e CSS. Desde então, mesmo me afastando em alguns momentos, sempre encontrei motivos para voltar ao desenvolvimento.
+Olá! Sou Mocotó, um desenvolvedor apaixonado por tecnologia com 26 anos, nascido no interior do Triângulo Mineiro e atualmente residindo no Centro-Oeste de Minas Gerais. Minha jornada na programação começou na adolescência, ao criar meu primeiro blog e descobrir o fascinante mundo do HTML e CSS.
 
-Com o tempo, fui ampliando meus conhecimentos, explorando linguagens, frameworks e boas práticas de programação. Já realizei alguns projetos, principalmente na área web, e agora busco consolidar minha carreira como desenvolvedor, transformando minha paixão em profissão. Sigo aprendendo, experimentando novas soluções e me desafiando a cada linha de código.
+Ao longo dos anos, explorei diversas linguagens, frameworks e boas práticas, focando principalmente em projetos web. Atualmente, estou consolidando minha carreira como desenvolvedor, transformando minha paixão em profissão. Sempre em busca de aprendizado contínuo, adoro experimentar novas soluções e me desafiar com cada linha de código escrita.
 
 ---
 
-- 🌍 Localização: Pará De Minas-MG 👌
-- 💼 Atuação: Desenvolvimento web e projetos diversos
-- 🎓 Formação: Ensino Médio
-- 🐱‍👓 Hobbies: Ler, ouvir música, estudar, pular corda, criar projetos pessoais e dar boas risadas.
+- 🌍 **Localização**: Pará de Minas - MG 👌
+- 💼 **Atuação**: Desenvolvimento web e projetos diversos
+- 🎓 **Formação**: Ensino Médio
+- 👌 **Hobbies**: Ler, ouvir música, estudar, pular corda, criar projetos pessoais e dar boas risadas.
 
 ---
 
@@ -35,7 +35,8 @@ Embora eu saiba usar várias linguagens e tecnologias, aqui estão as que mais d
 
 <div align="center">
 
-### Talvez daqui a uns 6 meses
+### Talvez daqui a alguns meses
+
   <a href="https://github.com/granular-deployment/">
     <img src="https://img.shields.io/badge/🧩_Oráculo-Em_breve-4A90E2?style=for-the-badge" alt="Oráculo">
   </a>
@@ -43,7 +44,8 @@ Embora eu saiba usar várias linguagens e tecnologias, aqui estão as que mais d
     <img src="https://img.shields.io/badge/🎨_Landing--Page-Em_breve-6B8F71?style=for-the-badge" alt="Landing Page">
   </a>
 
-  ### Um pouco mais pra frente
+### Um pouco mais pra frente
+
   <a href="https://github.com/granular-deployment/">
     <img src="https://img.shields.io/badge/🎲_Banco_de_dados-Em_breve-F5EBDD?style=for-the-badge" alt="Banco de dados">
   </a>
