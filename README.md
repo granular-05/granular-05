@@ -60,11 +60,9 @@ Embora eu saiba usar várias linguagens e tecnologias, aqui estão as que mais d
 <a href="https://wa.me/5537991004685">
 <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
+  
 <a href="https://discord.com/users/1412612063133438044">
 <img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/granular-deployment">
-<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white" />
 </a>
 </div>
 
