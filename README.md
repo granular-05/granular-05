@@ -36,18 +36,18 @@ Embora eu saiba usar várias linguagens e tecnologias, aqui estão as que mais d
 <div align="center">
 
 ### Talvez daqui a uns 6 meses
-  <a href="https://github.com/italo-547/">
+  <a href="https://github.com/granular-deployment/">
     <img src="https://img.shields.io/badge/🧩_Oráculo-Em_breve-4A90E2?style=for-the-badge" alt="Oráculo">
   </a>
-  <a href="https://github.com/italo-547/">
+  <a href="https://github.com/granular-deployment/">
     <img src="https://img.shields.io/badge/🎨_Landing--Page-Em_breve-6B8F71?style=for-the-badge" alt="Landing Page">
   </a>
 
   ### Um pouco mais pra frente
-  <a href="https://github.com/italo-547/">
+  <a href="https://github.com/granular-deployment/">
     <img src="https://img.shields.io/badge/🎲_Banco_de_dados-Em_breve-F5EBDD?style=for-the-badge" alt="Banco de dados">
   </a>
-  <a href="https://github.com/italo-547/">
+  <a href="https://github.com/granular-deployment/">
     <img src="https://img.shields.io/badge/🤖_Bot-Em_breve-3c3c3c?style=for-the-badge" alt="Bot">
   </a>
 </div>
@@ -67,7 +67,3 @@ Embora eu saiba usar várias linguagens e tecnologias, aqui estão as que mais d
 <blockquote align="center">
   Obrigado por visitar meu perfil! 😊
 </blockquote>
-
----
-
-<blockquote align="center"><i>Sem pressa | Ítalo C Lopes</i></blockquote>
