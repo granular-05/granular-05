@@ -2,9 +2,11 @@
 
 <div align="center">
     <a href="https://github.com/italo-547/" target="_blank">
-  <img src="https://img.shields.io/badge/cade_meus_emblemas_github-000000?style=for-the-badge&logo=github&logoColor=white" alt="Cade meus emblemas GitHub" />
+  <img src="https://img.shields.io/badge/😟_🥹_😮‍💨-103060?style=for-the-badge&logoColor=white" alt="Brincando um pouco" />
 </a>
 </div>
+
+> obs: estou apenas empilhando informações, depois eu organizo...
 
 ---
 
@@ -34,16 +36,29 @@ Sou um desenvolvedor curioso e dedicado: estudo constantemente, transformo ideia
 
 ---
 
-## 🚩 Projetos em Destaque
+## 🚩 Projetos em Andamentos
 
-[![Oráculo](https://img.shields.io/badge/Or%C3%A1culo-CLI-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/italo-547/oraculo)
-[![Segredo](https://img.shields.io/badge/Segredo-Em%20breve-6c757d?style=for-the-badge&logo=github&logoColor=white)](https://github.com/italo-547/)
+<div align="center">
+  <a href="https://github.com/italo-547/">
+    <img src="https://img.shields.io/badge/🧩_Oráculo-Em_breve-4A90E2?style=for-the-badge" alt="Oráculo">
+  </a>
+  <a href="https://github.com/italo-547/">
+    <img src="https://img.shields.io/badge/🎨_Landing--Page-Em_breve-6B8F71?style=for-the-badge" alt="Page">
+  </a>
+  <a href="https://github.com/italo-547/">
+    <img src="https://img.shields.io/badge/🎲_Banco_de_dados-Em_breve-F5EBDD?style=for-the-badge" alt="Banco de dados">
+  </a>
+  <a href="https://github.com/italo-547/">
+    <img src="https://img.shields.io/badge/🤖_Bot-Em_breve-3c3c3c?style=for-the-badge" alt="Bot">
+  </a>
+</div>
 
 ---
 
 ## 📫 Contato
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5537991004685)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1412612063133438044)
 
 ---
 
