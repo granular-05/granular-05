@@ -55,18 +55,10 @@ Embora eu saiba usar várias linguagens e tecnologias, aqui estão as que mais d
 ---
 
 ## 📫 Contato
-se precisar me encontrar esses são uns bons meios, embora eu não use Instagram, resolvi baixar pra matar o tempo um pouco...
-<div align="center">
-<a href="https://wa.me/5537991004685">
+
+<a align="center" href="https://wa.me/5537991004685">
 <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
-<a href="https://discord.com/users/1412612063133438044">
-  <img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-</a>
-<a href="https://www.instagram.com/granular.mode?igsh=bWM0MWt3MXQ1aGZu">
-  <img src="https://img.shields.io/badge/Instagram-fd1d1d?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-</div>
 
 ---
 
