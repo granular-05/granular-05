@@ -1,11 +1,11 @@
 
-<h1 align="center">Olá, eu sou o Ítalo 👋</h1>
+<h1 align="center">Olá, Mocotó aqui 👋</h1>
 
 ---
 
 ## 🎭 Sobre mim
 
-Dizem que a curiosidade move o mundo e foi ela que me trouxe até aqui. Sou o Ítalo, 26 anos, nascido no interior do Triângulo Mineiro e atualmente vivendo no Centro-Oeste de Minas. Minha trajetória na tecnologia começou na adolescência, quando quis criar meu próprio blog e acabei descobrindo o universo do HTML e CSS. Desde então, mesmo me afastando em alguns momentos, sempre encontrei motivos para voltar ao desenvolvimento.
+Dizem que a curiosidade move o mundo e foi ela que me trouxe até aqui. Sou o mocotó, 26 anos, nascido no interior do Triângulo Mineiro e atualmente vivendo no Centro-Oeste de Minas. Minha trajetória na tecnologia começou na adolescência, quando quis criar meu próprio blog e acabei descobrindo o universo do HTML e CSS. Desde então, mesmo me afastando em alguns momentos, sempre encontrei motivos para voltar ao desenvolvimento.
 
 Com o tempo, fui ampliando meus conhecimentos, explorando linguagens, frameworks e boas práticas de programação. Já realizei alguns projetos, principalmente na área web, e agora busco consolidar minha carreira como desenvolvedor, transformando minha paixão em profissão. Sigo aprendendo, experimentando novas soluções e me desafiando a cada linha de código.
 
@@ -71,7 +71,3 @@ Embora eu saiba usar várias linguagens e tecnologias, aqui estão as que mais d
 ---
 
 <blockquote align="center"><i>Sem pressa | Ítalo C Lopes</i></blockquote>
-
----
-
-<img align="right" alt="Selo Ítalo" src="galeria/selo.italo.png" width="100" height="100">
