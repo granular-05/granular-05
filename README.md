@@ -11,7 +11,6 @@ Ao longo dos anos, explorei diversas linguagens, frameworks e boas práticas, fo
 
 ---
 
-- 🌍 **Localização**: Pará de Minas - MG 👌
 - 💼 **Atuação**: Desenvolvimento web e projetos diversos
 - 🎓 **Formação**: Ensino Médio
 - 👌 **Hobbies**: Ler, ouvir música, estudar, pular corda, criar projetos pessoais e dar boas risadas.
