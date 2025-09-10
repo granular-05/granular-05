@@ -55,8 +55,7 @@
     <img src="https://img.shields.io/badge/🔘_Banco_de_dados-Em_breve-F5EBDD?style=for-the-badge" alt="Banco de dados">
   </a>
   <a href="https://github.com/granular-grogue/">
-    <img src="https://img.shields.io/badge/🔴_Bot-Em_breve-722F37
-?style=for-the-badge" alt="Bot">
+    <img src="https://img.shields.io/badge/🔴_Bot-Em_breve-722F37?style=for-the-badge" alt="Bot">
   </a>
 </div>
 
