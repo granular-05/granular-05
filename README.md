@@ -8,6 +8,8 @@
   <a href="https://github.com/granular-grogue/">
     <img alt="Estatísticas do GitHub" src="https://github-readme-stats.vercel.app/api?username=granular-grogue&show_icons=true&locale=pt-br&custom_title=Minhas%20Estatísticas%20😏&title_color=008000&text_color=ffffff&bg_color=00000000&border_color=ffffff&rank_icon=github&show=prs_merged&ring_color=008000&icon_color=008000" />
   </a>
+  <a href="https://github.com/granular-grogue/">
+  <img alt="Rolo" src="https://github-readme-stats.vercel.app/api/top-langs/?username=granular-grogue&show_icons=true&locale=pt-br&custom_title=Meu%20Dominio%20😎&title_color=008000&text_color=ffffff&bg_color=00000000&border_color=ffffff&hide_progress=true"/>
 </p>
 
 ---
@@ -18,9 +20,7 @@
 
 <p align="center">Ao longo dos anos, explorei linguagens, frameworks e boas práticas, com foco em projetos web. Estou consolidando minha carreira, transformando paixão em profissão, sempre aprendendo e experimentando novas soluções.</p>
 
-<p align="center"><b><em>Pará de Minas - MG</em></b> • <b><em>Desenvolvimento web e projetos diversos</em></b> • <b><em>Ensino Médio</em></b></p>
-
-<blockquote align="center"><b>No tempo livre:</b> ler, ouvir música, estudar, pular corda, criar projetos pessoais e dar boas risadas.</blockquote>
+<p align="center"><i><b>No tempo livre:</b> ler, ouvir música, estudar, pular corda, criar projetos pessoais e dar boas risadas.<i></p>
 
 ---
 
@@ -35,28 +35,6 @@
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-</div>
-
----
-
-<h2 align="center">Projetos em andamento</h2>
-
-<div align="center">
-  <p><em>Talvez daqui a alguns meses</em></p>
-  <a href="https://github.com/granular-grogue/oraculo">
-    <img src="https://img.shields.io/badge/🔵_Oráculo-Em_breve-4A90E2?style=for-the-badge" alt="Oráculo">
-  </a>
-  <a href="https://github.com/granular-grogue/">
-    <img src="https://img.shields.io/badge/🟢_Landing--Page-Em_breve-6B8F71?style=for-the-badge" alt="Landing Page">
-  </a>
-
-  <p><em>Um pouco mais pra frente</em></p>
-  <a href="https://github.com/granular-grogue/">
-    <img src="https://img.shields.io/badge/🔘_Banco_de_dados-Em_breve-F5EBDD?style=for-the-badge" alt="Banco de dados">
-  </a>
-  <a href="https://github.com/granular-grogue/">
-    <img src="https://img.shields.io/badge/🔴_Bot-Em_breve-722F37?style=for-the-badge" alt="Bot">
-  </a>
 </div>
 
 ---
