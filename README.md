@@ -10,6 +10,10 @@
   </a>
   <a href="https://github.com/granular-grogue/">
   <img alt="Rolo" src="https://github-readme-stats.vercel.app/api/top-langs/?username=granular-grogue&show_icons=true&locale=pt-br&custom_title=Meu%20Dominio%20😎&title_color=008000&text_color=ffffff&bg_color=00000000&border_color=ffffff&hide_progress=true"/>
+    <p align="center"> Deixar aqui por enquanto, depois vejo se compensa manter esse gráfico</p>
+    <a href="https://github.com/granular-grogue/">
+  <img alt="ve se presta" src="https://github-readme-activity-graph.vercel.app/graph?username=granular-grogue&locale=pt-br&custom_title=Um%20Grafico%20Atoa%20🎉&title_color=008000&color=ffffff&bg_color=00000000" />
+    </a>
 </p>
 
 ---
